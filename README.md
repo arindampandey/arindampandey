@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a college student , doing btech in CSE branch and my batch is 2024-28 , My name is Arindam Pandey , enhancing my coding and programming skills
+Engineering student passionate about programming.
+Working with C, C++, Python, HTML & CSS.
+Focused on strong fundamentals and clean logic.
+Learning → Building → Improving 🚀
 
 
 # 💻 Tech Stack:
