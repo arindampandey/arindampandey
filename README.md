@@ -22,21 +22,6 @@
 
 ---
 
-## 🛠️ GitHub Stats:
-<p align="center">
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=arindampandey&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs?username=arindampandey&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arindampandey&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Contribution Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arindampandey&theme=tokyo-night&hide_border=false" />
