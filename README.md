@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Student | Programmer | Tech Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arindampandey&label=Profile%20Views&color=0e75b6&style=flat" alt="arindampandey" />
+  <img src="https://komarev.com/ghpvc/?username=arindampandey&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -23,9 +23,10 @@
 ---
 
 ## 🛠️ GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arindampandey&show_icons=true&theme=tokyonight&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindampandey&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=arindampandey&show_icons=true&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=arindampandey&layout=compact&theme=tokyonight&hide_border=false" height="170" />
 </p>
 
 <p align="center">
