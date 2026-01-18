@@ -23,14 +23,16 @@
 ---
 
 ## 🛠️ GitHub Stats:
-
 <p align="center">
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=arindampandey&show_icons=true&theme=tokyonight&hide_border=false" height="170" />
-  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=arindampandey&layout=compact&theme=tokyonight&hide_border=false" height="170" />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=arindampandey&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arindampandey&theme=tokyonight&hide_border=false" />
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs?username=arindampandey&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arindampandey&theme=tokyonight" />
 </p>
 
 ---
