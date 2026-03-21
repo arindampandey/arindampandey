@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 - 🎓 Engineering student passionate about programming  
-- 💻 Working with **C, C++, Python, HTML & CSS**  
+- 💻 Learning **Golang** and Working with **C, C++, Python, HTML CSS & Javascript**  
 - 🎯 Focused on **strong fundamentals and clean logic**  
 - 🚀 Learning → Building → Improving  
 
